@@ -1,0 +1,34 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "this is react app by abhi",
+  "keywords": [
+    "react",
+    "abhi"
+  ],
+  "homepage": "https://github.com/abhaysinh9284-create/react-#readme",
+  "bugs": {
+    "url": "https://github.com/abhaysinh9284-create/react-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhaysinh9284-create/react-.git"
+  },
+  "license": "ISC",
+  "author": "Abhaysinh Gaikwad",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest "
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+
+  "browserslist": [
+  "last 2 versions"
+  ]
+}
